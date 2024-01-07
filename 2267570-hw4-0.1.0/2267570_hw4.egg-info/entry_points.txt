@@ -1,2 +1,0 @@
-[console_scripts]
-hw4 = hw4:main
