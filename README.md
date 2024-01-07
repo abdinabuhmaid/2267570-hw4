@@ -57,5 +57,6 @@ This Python project, called `2267570-hw4`, helps to study historical financial i
 You can install the package using `pip`. Open a terminal and run:
 
 ```bash
-pip install 2267570-hw4
+pip install 2267570-hw4==0.1.0
+
  
